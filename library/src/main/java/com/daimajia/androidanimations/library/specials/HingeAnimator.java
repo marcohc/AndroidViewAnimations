@@ -29,7 +29,7 @@ import android.view.View;
 import com.daimajia.androidanimations.library.BaseViewAnimator;
 import com.daimajia.easing.Glider;
 import com.daimajia.easing.Skill;
-import com.nineoldandroids.animation.ObjectAnimator;
+import android.animation.ObjectAnimator;
 
 public class HingeAnimator extends BaseViewAnimator{
     @Override
